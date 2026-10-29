@@ -13,7 +13,7 @@ A Walmart-inspired relational database system modelling retail supply chain oper
 
 ## Schema
 ```
-customers → orders → order_items → products → categories
+customers →  orders → order_items → products → categories
                                  → products → suppliers
 inventory → products
 inventory → warehouses
